@@ -1,3 +1,18 @@
+# Correct the HTML (fork)
+
+Completed HTML semantic-tag correction exercise (fork of the course assignment).
+
+## Description
+My completed fork of the Introduction to Programming Week 2 OpenClass HTML exercise.
+
+## Technologies
+- HTML, CSS
+
+## Status
+Course fork / archive candidate. Upstream assignment materials remain for reference.
+
+## Upstream assignment
+
 # Introduction to Programming Exercise - Correct the HTML
 
 ## Overview
